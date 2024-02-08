@@ -2,7 +2,7 @@
 # bernardocodes
 <h1 align="center">Oi 👋, meu nome é Bernardo!</h1>
 <h3 align="center">Atualmente estou cursando Ciência da Computação✏️🎒</h3>
-<h4>Estou aprendendo:</h4>
+<h4>📚Estou aprendendo:📚</h4>
 
 - 🌱 **desenvolvimento web,**
 - 🌱 **estrutura de dados em linguagem c,**
