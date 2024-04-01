@@ -1,7 +1,8 @@
 <!--role a tela até o final para pegar algumas anotações que eu guardei nos últimos commits nessa pag:-->
 # bernardocodes
 
-![img](https://github.com/bernardocodes/bernardocodes/assets/121183049/d67975b6-3651-4469-bdc9-69549fcf0d88)
+![img](https://github.com/bernardocodes/bernardocodes/assets/121183049/59d030f9-0f8f-4046-a29d-962f8494a902)
+
 
 <!--
 - essa linha de código logo abaixo mostra um gráfico das linguagens mais usadas pelo meu perfil. A medida que for postando código por aqui, talvez seja interessante ativar
