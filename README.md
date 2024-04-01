@@ -1,7 +1,8 @@
 <!--role a tela até o final para pegar algumas anotações que eu guardei nos últimos commits nessa pag:-->
 # bernardocodes
 
-![img](https://github.com/bernardocodes/bernardocodes/assets/121183049/59d030f9-0f8f-4046-a29d-962f8494a902)
+![img500px](https://github.com/bernardocodes/bernardocodes/assets/121183049/ba6a65c9-20b4-4b40-b012-780a8f4a9156)
+
 
 
 <!--
