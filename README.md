@@ -40,12 +40,13 @@ Sou um estudante de Ciência da Computação 💻, e estou constantemente aprend
 
 
 ## Mais Sobre Mim:
-- 📚 **Estudante**: Estou atualmente em busca de expandir meu conhecimento e habilidades na área de programação.
+
+- 📚 **Objetivos**: Estou atualmente em busca de expandir meu conhecimento e habilidades na área de programação.
 - 💡 **Conhecimentos**: Tenho experiência básica em **C**, **C++**, **Java**, **JavaScript**, **HTML** e **CSS**.
 - 🚀 **Interesses**: Tenho interesse em programação competitiva e hackatons.
 - 🤝 **Colaboração**: Estou aberto a oportunidades de colaboração e aprendizado com outros desenvolvedores.
 - 💬 **Perguntas**: Sinta-se à vontade para me perguntar sobre programação ou tecnologia, estou aqui para aprender e ajudar.
-- 📫 **Contato**: Pode me encontrar no LinkedIn ou me enviar um e-mail para [seuemail@gmail.com](mailto:seuemail@gmail.com).
+- 📫 **Contato**: Pode me encontrar no LinkedIn ou me enviar um e-mail para [bernardo.polaki@gmail.com](bernardo.polaki@gmail.com).
 - 📖 **Interesses**: Além da programação, gosto de explorar novos tópicos e aprender sobre diferentes áreas da tecnologia.
 
 
