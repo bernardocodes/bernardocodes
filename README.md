@@ -31,6 +31,9 @@ onde pegar os emojis: https://emojipedia.org/pt/livros
 gerador de profile readme: https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 perfis premiados para inspiração: https://zzetao.github.io/awesome-github-profile/
+
+esse aqui vale a pena: (gerador)
+https://profile-readme-generator.com/
 -->
 
 # 🖐️ Olá, meu nome é Bernardo!
@@ -46,7 +49,7 @@ Sou um estudante de Ciência da Computação 💻, e estou constantemente aprend
 - 🚀 **Interesses**: Tenho interesse em programação competitiva e hackatons.
 - 🤝 **Colaboração**: Estou aberto a oportunidades de colaboração e aprendizado com outros desenvolvedores.
 - 💬 **Perguntas**: Sinta-se à vontade para me perguntar sobre programação ou tecnologia, estou aqui para aprender e ajudar.
-- 📫 **Contato**: Pode me encontrar no LinkedIn ou me enviar um e-mail para [bernardo.polaki@gmail.com](bernardo.polaki@gmail.com).
+- 📫 **Contato**: Pode me encontrar no LinkedIn ou me enviar um e-mail para bernardo.polaki@gmail.com.
 - 📖 **Interesses**: Além da programação, gosto de explorar novos tópicos e aprender sobre diferentes áreas da tecnologia.
 
 
@@ -64,7 +67,9 @@ Sou um estudante de Ciência da Computação 💻, e estou constantemente aprend
 
 ## Linguagens Mais Usadas
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardocodes&layout=compact&theme=radical)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardocodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
 
 
@@ -76,5 +81,11 @@ Sou um estudante de Ciência da Computação 💻, e estou constantemente aprend
 
 ---
 
+<!--
 
+<p align="left">
 
+<a href="https://codeforces.com/profile/bernardocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bernardocodes" height="30" width="40" /></a>
+</p>
+
+-->
