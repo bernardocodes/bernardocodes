@@ -44,17 +44,20 @@ Sou um estudante de Ciência da Computação 💻, e estou constantemente aprend
 
 ## Mais Sobre Mim:
 
-- 📚 **Objetivos**: Estou atualmente em busca de expandir meu conhecimento e habilidades na área de programação.
-- 💡 **Conhecimentos**: Tenho experiência básica em **C**, **C++**, **Java**, **JavaScript**, **HTML** e **CSS**.
-- 🚀 **Interesses**: Tenho interesse em programação competitiva e hackatons.
-- 🤝 **Colaboração**: Estou aberto a oportunidades de colaboração e aprendizado com outros desenvolvedores.
-- 💬 **Perguntas**: Sinta-se à vontade para me perguntar sobre programação ou tecnologia, estou aqui para aprender e ajudar.
-- 📫 **Contato**: Pode me encontrar no LinkedIn ou me enviar um e-mail para bernardo.polaki@gmail.com.
-- 📖 **Interesses**: Além da programação, gosto de explorar novos tópicos e aprender sobre diferentes áreas da tecnologia.
+- 📚 **Objetivos**: Estou  em busca de expandir meu conhecimento e habilidades na área de programação.
+- 💡 **Conhecimentos**: Estou melhorando minhas habilidades em **C**, **C++**, **Java**, **JavaScript**, **HTML** e **CSS**.
+- 🚀 **Interesses**: Tenho interesse em programação competitiva <!--e hackatons-->.
+<!-- - 🤝 **Colaboração**: Estou aberto a oportunidades de colaboração e aprendizado com outros desenvolvedores. -->
+<!-- - 💬 **Perguntas**: Sinta-se à vontade para me perguntar sobre programação ou tecnologia, estou aqui para aprender e ajudar.-->
+<!-- - 📫 **Contato**: Pode me encontrar no LinkedIn ou me enviar um e-mail para bernardo.polaki@gmail.com.-->
+<!-- - 📖 **Interesses**: Além da programação, gosto de explorar novos tópicos e aprender sobre diferentes áreas da tecnologia. -->
 
 
-
+<!--
 ## Principais tecnologias com as quais eu trabalhei até agora:
+-->
+
+## Principais tecnologias:
 
 [![C](https://img.icons8.com/color/48/000000/c-programming.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://en.wikipedia.org/wiki/C%2B%2B)
@@ -63,21 +66,21 @@ Sou um estudante de Ciência da Computação 💻, e estou constantemente aprend
 [![HTML](https://img.icons8.com/color/48/000000/html-5.png)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://en.wikipedia.org/wiki/CSS)
 
-
+<!--
 
 ## Linguagens Mais Usadas
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardocodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+-->
 
-
-
+<!--
 ## Perfis de Competição
 
 [⚙️ Codeforces](https://codeforces.com/profile/bernardocodes) 
 [🐝 Beecrowd](https://judge.beecrowd.com/pt/profile/1015725)
-
+-->
 
 ---
 
