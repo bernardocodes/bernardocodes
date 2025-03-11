@@ -46,7 +46,7 @@ Sou um estudante de Ciência da Computação 💻, e estou constantemente aprend
 
 - 📚 **Objetivos**: Estou  em busca de expandir meu conhecimento e habilidades na área de programação.
 - 💡 **Conhecimentos**: Estou melhorando minhas habilidades em **C**, **C++**, **Java**, **JavaScript**, **HTML** e **CSS**.
-- 🚀 **Interesses**: Tenho interesse em programação competitiva <!--e hackatons-->.
+- 🚀 **Interesses**: Programação competitiva. <!--e hackatons-->
 <!-- - 🤝 **Colaboração**: Estou aberto a oportunidades de colaboração e aprendizado com outros desenvolvedores. -->
 <!-- - 💬 **Perguntas**: Sinta-se à vontade para me perguntar sobre programação ou tecnologia, estou aqui para aprender e ajudar.-->
 <!-- - 📫 **Contato**: Pode me encontrar no LinkedIn ou me enviar um e-mail para bernardo.polaki@gmail.com.-->
