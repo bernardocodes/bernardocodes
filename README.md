@@ -67,7 +67,7 @@ Sou um estudante de Ciência da Computação 💻, e estou constantemente aprend
 [![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://en.wikipedia.org/wiki/CSS)
 
 <a href="https://codeforces.com/profile/bernardocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bernardocodes" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/bernardocodes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bernardocodes/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/bernardocodes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bernardocodes/" height="30" width="40" /></a>
 </p>
 <!--
 <a href="https://www.beecrowd.com.br/judge/en/profile/bernardocodes" target="blank">
