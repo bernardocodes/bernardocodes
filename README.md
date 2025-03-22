@@ -68,7 +68,7 @@ Sou um estudante de Ciência da Computação 💻, e estou constantemente aprend
 
 ## CP:
 <a href="https://codeforces.com/profile/bernardocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bernardocodes" height="30" width="40" /></a>
-<a href="https://www.beecrowd.com.br/judge/en/profile/bernardocodes" target="_blank">
+<a href="https://judge.beecrowd.com/pt/profile/1015725" target="_blank">
     <img align="center" src="https://i.imgur.com/gvaalcR.png" alt="Beecrowd Profile" height="30" width="40" /></a> <!-- se esse </a> estiver deslocado do conjuto, ou seja, na linha abaixo... da um bug vizual-->
 <a href="https://leetcode.com/bernardocodes/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" />
