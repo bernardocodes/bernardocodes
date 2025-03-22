@@ -66,14 +66,20 @@ Sou um estudante de Ciência da Computação 💻, e estou constantemente aprend
 [![HTML](https://img.icons8.com/color/48/000000/html-5.png)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://en.wikipedia.org/wiki/CSS)
 
+<a href="https://codeforces.com/profile/bernardocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bernardocodes" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/bernardocodes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bernardocodes/" height="30" width="40" /></a>
+</p>
+<!--
+<a href="https://www.beecrowd.com.br/judge/en/profile/bernardocodes" target="blank">
+  <img align="center" src="https://i.imgur.com/wSxDDwv.png" alt="Beecrowd Profile" height="50" width="50" />
+</a>
+-->
+
+
+
 <!--
 
-## Linguagens Mais Usadas
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardocodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
--->
 
 <!--
 ## Perfis de Competição
